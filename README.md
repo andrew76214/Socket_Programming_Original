@@ -1,4 +1,4 @@
-# Socket_Programming_Original
+# Socket_Programming_Traditional
 
 ## Usage
  - compile
