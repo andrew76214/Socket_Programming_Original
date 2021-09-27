@@ -3,7 +3,8 @@
 ## Usage
  - compile
  
- ```gcc server.c -o s
+ ```
+ gcc server.c -o s
  ```
  ```
     gcc client.c -o c
